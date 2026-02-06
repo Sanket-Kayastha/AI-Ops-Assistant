@@ -7,6 +7,7 @@ open app.py file and in the terminal type(flask run) know app is Running on (htt
 Environment Variables:
 
 GROQ_API_KEY=your_groq_api_key_here
+
 WEATHER_API_KEY=your_openweather_api_key_here
 
 Architecture explanation:
