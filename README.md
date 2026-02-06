@@ -1,6 +1,6 @@
 Setup Instructions:
 
-Clone the given repository --> Create and activate virtual environment(if required) --> Install dependencies(pip install -r requirements.txt) -->
+Clone the given repository (Example: git clone https://github.com/Sanket-Kayastha/AI-Ops-Assistant) --> Create and activate virtual environment(if required)--> Make sure  your are in right directory(Example: C:\your_syatem_path\AI-Ops-Assistant) --> Install dependencies(pip install -r requirements.txt) -->
 create (.env) file In this file provide two api keys (GROQ_API_KEY=your_groq_api_key_here and WEATHER_API_KEY=your_openweather_api_key_here)-->
 open app.py file and in the terminal type(flask run) know app is Running on (http://127.0.0.1:5000) local host.
 
